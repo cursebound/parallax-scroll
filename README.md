@@ -1,1 +1,1 @@
-# parallax-scroll
+https://cursebound.github.io/parallax-scroll/
